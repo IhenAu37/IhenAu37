@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IhenAu37
 - 👀 I’m interested in ... game development that'll go hand in hand with Writing and illustrating comics
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... many projects. No experience is a waste
 - 📫 How to reach me ... ihenacho.austin2016@gmail.com
 - 😄 Pronouns: ...He/ Him
-- ⚡ Fun fact: ... I graduate with my AS in Computer Science in Spring of 2025
+- ⚡ Fun fact: ... Although I am still a beginner, I graduate with my AS in Computer Science in Spring of 2025
 
 <!---
 IhenAu37/IhenAu37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
